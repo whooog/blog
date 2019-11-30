@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 橙色的一亩三分地
-subtitle: valar morghulis
-description: 体は剣で出来ている</br>血潮は鉄で 心は硝子</br>几たびの戦场を越えて不败</br>ただの一度も败走はなく</br>ただの一度も理解されない</br>彼の者は常に独り 剣の丘で胜利に酔う</br>故に、生涯に意味はなく
+title: whooog
+subtitle: The history of rookie struggle
+description:
 keywords:
-author: cheng
+author: ML
 language: zh-CN
 timezone:
 
@@ -40,9 +40,9 @@ external_link:
   exclude:
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
-future: true
+future: false
 highlight:
   enable: true
   line_number: true
